@@ -19,7 +19,7 @@ function App() {
       <h1>Vite + React</h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 2)}>
-          Updated count is {count} for you Rosario
+          Updated count is {count} for you Rosario version 2 😀
         </button>
         <p>
           Edit <code>src/App.jsx</code> and save to test HMR
