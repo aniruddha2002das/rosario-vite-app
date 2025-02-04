@@ -20,6 +20,7 @@ function App() {
       <div className="card">
         <button onClick={() => setCount((count) => count + 2)}>
           Rosario now updated count is {count} 😀
+          Ha ha
         </button>
         <p>
           Edit <code>src/App.jsx</code> and save to test HMR
